@@ -43,9 +43,9 @@ Los multiplicadores son el corazón palpitante de Plinko, y entenderlos es clave
 
 El sistema de multiplicadores en Plinko es dinámico y emocionante:
 
-- Multiplicadores bajos (x1 a x5): Generalmente ubicados en las casillas centrales, son más fáciles de alcanzar pero ofrecen ganancias modestas.
-- Multiplicadores medios (x10 a x50): Se encuentran en las casillas intermedias y ofrecen un buen equilibrio entre riesgo y recompensa.
-- Multiplicadores altos (x100 a x1000): Situados en los extremos del tablero, son los más difíciles de alcanzar pero pueden resultar en ganancias espectaculares.
+- **Multiplicadores bajos (x1 a x5)**: Generalmente ubicados en las casillas centrales, son más fáciles de alcanzar pero ofrecen ganancias modestas.
+- **Multiplicadores medios (x10 a x50)**: Se encuentran en las casillas intermedias y ofrecen un buen equilibrio entre riesgo y recompensa.
+- **Multiplicadores altos (x100 a x1000)**: Situados en los extremos del tablero, son los más difíciles de alcanzar pero pueden resultar en ganancias espectaculares.
 
 Para maximizar tus ganancias con multiplicadores altos:
 
